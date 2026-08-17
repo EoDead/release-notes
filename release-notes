@@ -1,0 +1,58 @@
+[
+  {
+    "version": "1.1.3",
+    "date": "2026-08-17",
+    "title": "Настройки, горячие клавиши и улучшения",
+    "changes": [
+      { "type": "added", "description": "Добавлено окно настроек с разделом горячих клавиш" },
+      { "type": "added", "description": "Глобальные горячие клавиши: Ctrl+N, Ctrl+Shift+N, Ctrl+Shift+P" },
+      { "type": "added", "description": "Переключение между разделами через Ctrl+1, Ctrl+2, Ctrl+3" },
+      { "type": "added", "description": "Отображение папки заметки в списке" },
+      { "type": "added", "description": "Возможность добавлять вложения в режиме редактирования" },
+      { "type": "added", "description": "Корневая папка в панели папок" },
+      { "type": "changed", "description": "Контекстное меню закрывается по клику вне" },
+      { "type": "changed", "description": "Кнопки Назад и Сохранить только в проекте" },
+      { "type": "fixed", "description": "Центрирование переключателя режимов" },
+      { "type": "fixed", "description": "Исправлен дублирующий режим folders" }
+    ]
+  },
+  {
+    "version": "1.1.2",
+    "date": "2026-08-16",
+    "title": "Физика фона и улучшения папок",
+    "changes": [
+      { "type": "added", "description": "Световой фон следует за мышью с инерцией" },
+      { "type": "added", "description": "Деформация пятна от скорости движения" },
+      { "type": "added", "description": "Корневая папка в панели папок" },
+      { "type": "fixed", "description": "Закрытие контекстного меню заметок" },
+      { "type": "changed", "description": "Поиск папок в панели" }
+    ]
+  },
+  {
+    "version": "1.1.1",
+    "date": "2026-08-15",
+    "title": "Релизные заметки и улучшения интерфейса",
+    "changes": [
+      { "type": "added", "description": "Релизные заметки с загрузкой из GitHub" },
+      { "type": "added", "description": "Кнопка Обновления в верхней панели" },
+      { "type": "added", "description": "Автоматическая проверка новых версий" },
+      { "type": "added", "description": "Иерархия папок" },
+      { "type": "added", "description": "Перемещение папок и заметок" },
+      { "type": "fixed", "description": "Исправлены типы Note (remindAt, repeat)" }
+    ]
+  },
+  {
+    "version": "1.1.0",
+    "date": "2026-08-14",
+    "title": "Первая альфа-версия",
+    "changes": [
+      { "type": "added", "description": "Три раздела: Заметки, Главная, Проекты" },
+      { "type": "added", "description": "Создание, редактирование и удаление заметок" },
+      { "type": "added", "description": "Папки и цветные метки" },
+      { "type": "added", "description": "Закрепление, архивация, поиск, сортировка" },
+      { "type": "added", "description": "Вложения и напоминания" },
+      { "type": "added", "description": "Проекты с карточками" },
+      { "type": "added", "description": "Переключение языков RU/EN" }
+    ]
+  }
+]
