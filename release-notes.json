@@ -26,7 +26,7 @@
     { "type": "fixed", "description": "Исправлена ошибка «Cannot read properties of undefined» в ConnectionsLayer – убрана зависимость от несуществующего пропа" },
     { "type": "fixed", "description": "Исправлено обновление координат линий при перемещении карточек" }
   ]
-}
+},
 {
   "version": "1.4.0",
   "date": "2026-08-29",
