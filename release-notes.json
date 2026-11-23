@@ -1,7 +1,7 @@
 [
   {
-    "version": "1.5.3",
-    "date": "2026-11-12",
+    "version": "1.5.31",
+    "date": "2026-11-24",
     "title": "Fix tray",
     "changes": [
       { "type": "fixed", "description": "Трей не отображался, не был добавлен в разрешения." }
